@@ -18,5 +18,5 @@ This is just a shortened version
 1. Checkout this git repo
 2. Add the directory containing this repo to your _PYTHONPATH_ environment variable
 3. Add script from this repo to your OMERO.server scripts ```omero script upload omero/my_scripts/export_to_other_omero.py```
-3. Add the application to OMERO.server configuration ```omero config append omero.web.apps '"omero_exporter"'```
-4. Add tne application to _open with_ context menu ```omero config append omero.web.open_with '["omero_exporter", "export_tool", {"supported_objects": ["images"], "label": "OMERO exporter"}]'```
+3. Add the application to OMERO.server configuration ```omero config append omero.web.apps '"omero_export"'```
+4. Add tne application to _open with_ context menu ```omero config append omero.web.open_with '["omero_export", "export_tool", {"supported_objects": ["images"], "label": "Export to other OMERO"}]'```
