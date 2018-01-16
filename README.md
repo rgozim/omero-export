@@ -27,9 +27,17 @@ Example Usage
 To use the omero_export tool, select one or more images from the _project_ tree on the left panel of OMERO.web, and right click to reveal the context menu shown in the image below.
 You will be able to see the application you have added via the _Open With_ option.
 
+#### Context menu option
+
 ![](https://user-images.githubusercontent.com/3717090/34998622-817aff7a-fad7-11e7-9b90-a1dbd1db49b4.png "Context menu option")
+
+
+#### Login to other OMERO page
 
 ![](https://user-images.githubusercontent.com/3717090/34998629-84ec3c78-fad7-11e7-8cda-94eafb94b41c.png "Login to other OMERO page")
 
-![](https://user-images.githubusercontent.com/3717090/34998629-84ec3c78-fad7-11e7-8cda-94eafb94b41c.png "Export images page")
+
+#### Export images page
+
+![](https://user-images.githubusercontent.com/3717090/34998615-7dae0932-fad7-11e7-8aff-ea82a6f1895f.png "Export images page")
 
